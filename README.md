@@ -5,7 +5,7 @@
 
 ## CHANGES
 ADD EU_433  
-testing with ra-02 - works  
+testing with esp32 and ra-02 - works  
   
 **Contents:**
 
