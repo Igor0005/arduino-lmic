@@ -1,4 +1,4 @@
-# Arduino-LMIC library ("MCCI LoRaWAN LMIC Library")
+# Arduino-LMIC library ("MCCI LoRaWAN LMIC Library") (+eu433 test plan)
 
 [![GitHub release](https://img.shields.io/github/release/mcci-catena/arduino-lmic.svg)](https://github.com/mcci-catena/arduino-lmic/releases/latest) [![GitHub commits](https://img.shields.io/github/commits-since/mcci-catena/arduino-lmic/latest.svg)](https://github.com/mcci-catena/arduino-lmic/compare/v5.0.1...master) [![Arduino CI](https://img.shields.io/github/actions/workflow/status/mcci-catena/arduino-lmic/ci-arduinocli.yml?branch-master)](https://github.com/mcci-catena/arduino-lmic/actions)
 <!-- lmic document is v5.0.0, don't forget to update -->
@@ -22,7 +22,7 @@ testing with esp32 and ra-02 - works
 <!-- markdownlint-disable -->
 <!-- TOC depthFrom:2 updateOnSave:true -->
 
-- [Arduino-LMIC library ("MCCI LoRaWAN LMIC Library")](#arduino-lmic-library-mcci-lorawan-lmic-library)
+- [Arduino-LMIC library ("MCCI LoRaWAN LMIC Library") (+eu433 test plan)](#arduino-lmic-library-mcci-lorawan-lmic-library-eu433-test-plan)
   - [CHANGES](#changes)
   - [Introduction](#introduction)
   - [Installing](#installing)
